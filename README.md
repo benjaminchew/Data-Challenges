@@ -1,2 +1,2 @@
 # fun-with-python
-My first attempts at coding in Python after having used Matlab for work.
+Learn by doing, they say. Learn by doing, I shall. First attempts at coding in Python. 
