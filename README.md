@@ -1,2 +1,2 @@
-# fun-with-python
-A compilation of lab reading group adventures.
+# Data Challenges
+A compilation of data challenges and lab reading group practices.
